@@ -1,3 +1,3 @@
 # project
 this is my first file
-Author :karthik reddy
+Author :karthik reddy (Gangadi)
